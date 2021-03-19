@@ -11,4 +11,4 @@ A minecraft resource pack that change 16x vanila painting to 256x Kafuu Chino Pa
 |1.13(17w49a)|1.15(19w46a)|4|[Google drive](https://drive.google.com/file/d/1JPp24JN4k5JpcBASbWpwgvfcpjYcCLm2/view?usp=sharing)  [Mega](https://mega.nz/folder/6kQmlJxT#8QFEo2UcerY6hRC0pjwaEg)|
 |1.15(Pre-release 1)|1.16.2(Pre-release 3)|5|[Google drive](https://drive.google.com/file/d/15lZd-o6haFR_AKa1QaoUqYZhc2DLBDSi/view?usp=sharing) [Mega](https://mega.nz/folder/boI0EZAa#uoH7DQy0x6mPDA1uyiCCCQ)|
 |1.16.2(Release Candidate 1)|1.16.5|6|[Google drive](https://drive.google.com/file/d/1ZSuYKvBR1t-Cz9cOrVM4zGdkl1jbJ4p2/view?usp=sharing) [Mega](https://mega.nz/folder/fwQQUJQL#Yo7aLBLYi67BevOrKxSM3w)|
-|1.17(20w45a)|To be defined|7 (Under working)|Release soon|
+|1.17(20w45a)|To be defined|7|[Google drive](https://drive.google.com/file/d/1FItwgcOz8FA65YbHYLnAD-s05K-xJGwF/view?usp=sharing) [Mega](https://mega.nz/folder/PsIkSbKS#upUP-Z0O1awGeR_IL-k2TA)|
